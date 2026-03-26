@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://i.imgur.com/0N6OCac.png" alt="my-client-logo" width="15%"/>
+<img src="https://i.imgur.com/0N6OCac.png" alt="my-client-logo" width="30%"/>
 </p>
 
-<h1 align="center">Meteor</h1>
-<p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
+<h1 align="center">NoCheat</h1>
+<p align="center">Currently Skidded, Originally from Meteor.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
