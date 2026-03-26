@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="https://i.imgur.com/0N6OCac.png" alt="my-client-logo" width="15%"/>
 </p>
 
 <h1 align="center">Meteor</h1>
