@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">NoCheat</h1>
-<p align="center">Currently Skidded, Originally from Meteor; Contacts for Meteor Client Below</p>
-
+<p align="center">Currently Skidded, Originally from Meteor;</p>
+<p align="center">Contacts for Meteor Client Below</p>
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
     <br>
